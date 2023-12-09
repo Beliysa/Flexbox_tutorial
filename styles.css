@@ -10,18 +10,19 @@
     padding: 20px 0;
     display: flex;
     justify-content: center;
+    border: 2px solid black;
     
     }
   
     .menu {
-   /* border: 1px solid #fff;  */ /* For debugging */
+    border: 2px solid #fff;  
     width: 900px;
     display: flex;
     justify-content: space-between;
     }
 
     .links {
-    /* border:1px solid black; */
+    border:2px solid red; 
     display: flex;
     justify-content: flex-end;
     }
